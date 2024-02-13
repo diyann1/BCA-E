@@ -1,4 +1,4 @@
-num = 1234
+num = 567
 reversed_num = 0
 
 while num != 0:
